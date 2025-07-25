@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\method1\method1\bin\Debug\net8.0\method1.exe
+C:\Users\User\Desktop\method1\method1\bin\Debug\net8.0\method1.deps.json
+C:\Users\User\Desktop\method1\method1\bin\Debug\net8.0\method1.runtimeconfig.json
+C:\Users\User\Desktop\method1\method1\bin\Debug\net8.0\method1.dll
+C:\Users\User\Desktop\method1\method1\bin\Debug\net8.0\method1.pdb
+C:\Users\User\Desktop\method1\method1\obj\Debug\net8.0\method1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\method1\method1\obj\Debug\net8.0\method1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\method1\method1\obj\Debug\net8.0\method1.AssemblyInfo.cs
+C:\Users\User\Desktop\method1\method1\obj\Debug\net8.0\method1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\method1\method1\obj\Debug\net8.0\method1.dll
+C:\Users\User\Desktop\method1\method1\obj\Debug\net8.0\refint\method1.dll
+C:\Users\User\Desktop\method1\method1\obj\Debug\net8.0\method1.pdb
+C:\Users\User\Desktop\method1\method1\obj\Debug\net8.0\method1.genruntimeconfig.cache
+C:\Users\User\Desktop\method1\method1\obj\Debug\net8.0\ref\method1.dll
